@@ -1,3 +1,6 @@
-# deep_learning_class
-# deep_learning_class
-# deep_learning_class
+# 학부 학년 1학기 심층학습, 인공지능실습 수업내용
+
+## 프로젝트로 주가예측 모델 진행
+
+## cnn을 활용한 주강예측
+
